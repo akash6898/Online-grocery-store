@@ -14,7 +14,10 @@ storing images, and firebase authentication for authenticating users. I
 also created an admin app in which admin can control prices, name of
 
 categories and products,stocks of products, coupons etc. in real time.
+
+
 <text>
+ <br> <br>
 <img src = "screenshot/Screenshot1.png" height = 400>
 <img src = "screenshot/Screenshot2.png" height = 400>
 <img src = "screenshot/Screenshot3.png" height = 400>
